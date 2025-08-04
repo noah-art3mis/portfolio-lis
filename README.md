@@ -30,10 +30,10 @@ My personal collection of people on tumblr saying unhinged stuff in a very speci
 
 ## Others:
 
--   **CCUS**: Mostly descriptive analysis of data on carbon capture projects. See repository [here](https://github.com/noah-art3mis/everything-counts-1).
 -   **Who deports more, Republicans or Democrats?**: Analysis of United States deportation data. Hopelessly outdated now. See repository [here](https://github.com/noah-art3mis/stats-assignment-2).
 -   **Visual analysis**: a visual analysis of a painting by Zdzisław Beksiński.
--   **Is This True Interdisciplinarity? A Case Study of an Interdisciplinary Journal Paper**: critical essay on integration. Do you have to use certain words and follow certain methods to be considered interdisciplinary, or is publishing interesting work enough? That is, do you have to follow the tradition of the "discipline of interdisciplinarity"? Isn't the whole point of interdisciplinarity not to engage in this?
 -   **Neurophysiological Effects of Architectural Styles in Virtual Reality**: fake neuroarchitecture paper that uses EEG and VR to test if there truly is a "universal attraction to vitality" - that is, to see if brutalism is objectively ugly. Since I like xenofeminism, you can guess my opinion on this topic.
 -   **Is psychoanalysis a pseudoscience?**: short paper on psychoanalysis and science, leveraging my background in both psychology and philosophy of science.
+-   **Is This True Interdisciplinarity? A Case Study of an Interdisciplinary Journal Paper**: critical essay on integration. Do you have to use certain words and follow certain methods to be considered interdisciplinary, or is publishing interesting work enough? That is, do you have to follow the tradition of the "discipline of interdisciplinarity"? Isn't the whole point of interdisciplinarity not to engage in this?
+-   **CCUS**: Mostly descriptive analysis of data on carbon capture projects. See repository [here](https://github.com/noah-art3mis/everything-counts-1).
 -   **The Radiant Capital** and **The New New Capital**: slide decks that attempt to address the notorious public transport issue in Brasilia, Brazil (my hometown) through the stupidest possible method: diverting money from the current (reasonably effective) solutions to build a bold, innovative, and hopeful light-rail network that only serves the rich part of the city. The epitome of "pra inglês ver".
